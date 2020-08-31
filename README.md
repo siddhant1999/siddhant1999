@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on fast one-day builds that improve peoples' lives
 - 💬 Ask me about remote dev and Quantum ML
 - 📫 How to reach me: <github@jain.dev>
-- 🖥 Find my projects: <https://siddj.com/>
+- 🖥 Find my projects on my [portfolio site](https://siddj.com/)
