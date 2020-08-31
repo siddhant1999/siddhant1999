@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about remote dev and Quantum ML
 - 📫 How to reach me: <github@jain.dev>
 - 🖥 Find my projects on my [portfolio site](https://siddj.com/)
+- 🤖 My [Jouncer](https://jouncer.com/creators/b4ece008-b90f-424a-a8a2-4c754ed02af9) profile has even more projects
